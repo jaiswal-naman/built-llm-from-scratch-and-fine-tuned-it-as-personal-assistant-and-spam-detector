@@ -1,4 +1,4 @@
-**From Zeros to GPT: Building a Large Language Model from Scratch** 
+**From Zeros to GPT: Building a Large Language Model from Scratch with pytorch** 
 
 We all use ChatGPT and other AI models every day — but have you ever wondered how these powerful Large Language Models (LLMs) are actually built?
 
