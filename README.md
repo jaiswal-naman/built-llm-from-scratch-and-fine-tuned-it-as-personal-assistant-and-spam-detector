@@ -1,4 +1,7 @@
-![image](https://github.com/user-attachments/assets/5d71e696-11e8-497e-b0f4-8fe38bf428ac)**Building a GPT Based Large Language Model from Scratch with pytorch** 
+![image](https://github.com/user-attachments/assets/55628c0b-b3c8-4d11-8045-b0230c7995b7)
+
+
+**Building a GPT Based Large Language Model from Scratch with pytorch** 
 
 We all use ChatGPT and other AI models every day — but have you ever wondered how these powerful Large Language Models (LLMs) are actually built?
 
