@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/55628c0b-b3c8-4d11-8045-b0230c7995b7)
+![ChatGPT Image May 8, 2025, 06_22_57 PM](https://github.com/user-attachments/assets/e692b029-f0e2-45cb-9f01-22f4c6e43be1)
+
 
 
 **Building a GPT Based Large Language Model from Scratch with pytorch** 
